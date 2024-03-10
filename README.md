@@ -1,5 +1,6 @@
 <img src="Firefly Podcast Reviews 94193.jpg" width="450" height="450">
 <p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>Inferential Statistical Analysis of the Podcast Reviews</p>
+<p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>Analysis  is presented in the COVID-19 data Analysis.ipynb notebook</p>
 <br>
 
 <a id="0"></a>
