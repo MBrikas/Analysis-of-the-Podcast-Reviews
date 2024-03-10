@@ -16,7 +16,7 @@
     
     
 
-#### [Notebook by Mažvydas Brikas](https://www.linkedin.com/in/mazvydas-brikas/)      <br>[Turing College](https://www.turingcollege.com/)
+#### [Notebook by Mažvydas Brikas](https://www.linkedin.com/in/mazvydas-brikas/)      <br>[Podcast Reviews Dashboard](https://lookerstudio.google.com/reporting/d3b50089-c400-4d61-9f94-29c31c4b2fd4)
 # Project Introduction
 
 The main objective of this project is to analyze the Podcast Reviews Dataset.
