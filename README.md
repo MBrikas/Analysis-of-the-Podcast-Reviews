@@ -1,7 +1,8 @@
 <img src="Firefly Podcast Reviews 94193.jpg" width="450" height="450">
+Looker Studio [Podcast Reviews Dashboard](https://lookerstudio.google.com/reporting/d3b50089-c400-4d61-9f94-29c31c4b2fd4).
 <p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>Inferential Statistical Analysis of the Podcast Reviews</p>
 <br>
-Looker Studio [Podcast Reviews Dashboard](https://lookerstudio.google.com/reporting/d3b50089-c400-4d61-9f94-29c31c4b2fd4).
+
 <a id="0"></a>
  ### [Table of Contents](0)
 1. [Project Introduction](#1)      
